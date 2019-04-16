@@ -1,0 +1,49 @@
+.design{
+    background-color: #97C5D8;
+    padding-bottom: 2%;
+}
+#design{
+    padding-left: 1%;
+    color: #1E3D69;
+}
+.design-list{
+    list-style: none;
+    font-family: gill-sans-nova, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    margin-top: 0%;
+}
+.designItem{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.paintingImages{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 0px;
+}
+#pink2{
+    margin-left: 2%;
+    margin-right: 2%; 
+}
+#pink3{
+    margin-left: 6%;
+}
+#pink4{
+    margin-left: 2%;
+    margin-right: 5%;
+}
+.drawingImages{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#camera2{
+    margin-right: 5%;
+}
+#camera3{
+    margin-left: 2.5%;
+}
+#collage1{
+    margin-left: 5%;
+}

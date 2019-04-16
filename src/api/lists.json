@@ -1,0 +1,58 @@
+[
+    {
+        "name": "background",
+        "list": [
+            "I am from Houston", 
+            "Teacher of small humans", 
+            "Graduated from Austin Coding Academy in January 2019", 
+            "Certificate in Full Stack JavaScript Web Development", 
+            "Graduated from Texas State in 2014", 
+            "Degree in Interdisplinary Studies (teaching)", 
+            "Minor in Studio Art + Post BS Hours in Studio Art with an emphasis in painting"
+        ]
+    },
+    {
+        "name": "inspo",
+        "list": [
+            "Alex Katz", 
+            "David Hockney", 
+            "Henri Toulouse-Lautrec",
+            "Bauhaus Movement", 
+            "Marcel Breuer"
+        ]
+    },
+    {
+        "name": "design",
+        "list": [
+            "image1",
+            "image2", 
+            "image3"
+        ]
+    },
+    {
+        "name": "future",
+        "list": [
+            "one",
+            "two",
+            "three"
+        ]
+    },
+    {
+        "name": "frog",
+        "list": [
+            "one",
+            "two",
+            "three"
+        ]
+    },
+    {
+        "name": "passionProject",
+        "list": [
+            "[ a r r a y n g e ]",
+            "Capstone Project",
+            "Built using React.js for the front-end, Node.js and Express.js for the back-end, and MongoDB for the database.",
+            "A full-stack web application made for Kindergarten through Eighth grade teachers to allow teachers the ability to enter students test scores, sort students from high-to-low based on their test scores and then arrange students into leveled groups."
+        ]
+    }
+
+]
